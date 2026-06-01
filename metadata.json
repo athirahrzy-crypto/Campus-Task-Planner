@@ -1,0 +1,6 @@
+{
+  "name": "Campus Task Planner",
+  "description": "대학생들을 위한 직관적이고 깔끔한 과제·시험·발표·팀플 일정 관리 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
