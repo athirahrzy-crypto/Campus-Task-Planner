@@ -25,4 +25,4 @@ Campus Task Planner는 대학생들이 과제, 시험, 발표, 팀플 일정을 
 
 ## 배포 URL
 
-Vercel 배포 URL: 여기에 본인 Vercel URL 입력
+Vercel 배포 URL: https://campus-task-planner.vercel.app/
